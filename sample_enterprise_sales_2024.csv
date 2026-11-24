@@ -1,0 +1,16 @@
+TransactionID,Date,CustomerName,CustomerID,Category,Product,Quantity,UnitPrice,Revenue,Cost,Profit,Region,Status
+TXN-101,2024-01-15,Nova Dynamics,CUST-201,Enterprise Software,Apex ERP Financial Cloud,3,8500,25500,12240,13260,North America,Completed
+TXN-102,2024-01-20,Helios Financial,CUST-202,AI Hardware,TensorScale H200 Node,1,28500,28500,20520,7980,Europe,Completed
+TXN-103,2024-02-04,Vanguard Biopharma,CUST-203,Cybersecurity,ZeroTrust Endpoint Pro,5,3800,19000,7980,11020,Asia Pacific,Completed
+TXN-104,2024-02-18,Apex Logistics,CUST-204,Cloud Infrastructure,Aurora Elastic Compute,2,4200,8400,5208,3192,North America,Completed
+TXN-105,2024-03-02,CyberPulse Networks,CUST-205,Enterprise Software,Synthetix BI Suite,4,6200,24800,11160,13640,Europe,Completed
+TXN-106,2024-03-19,Titan Energy,CUST-206,Cybersecurity,DarkTrace Threat Intel,2,7200,14400,5616,8784,Middle East,Completed
+TXN-107,2024-04-08,BlueHorizon Media,CUST-207,AI Hardware,EdgeMatrix Neural Unit,3,12400,37200,25296,11904,North America,Completed
+TXN-108,2024-04-22,Aegis Aerospace,CUST-208,Enterprise Software,Apex ERP Financial Cloud,2,8500,17000,8160,8840,Europe,Completed
+TXN-109,2024-05-11,Solstice Capital,CUST-209,Cloud Infrastructure,Quantum Cloud Storage,6,1800,10800,6048,4752,Asia Pacific,Completed
+TXN-110,2024-05-27,Zenith Health,CUST-210,Cybersecurity,ZeroTrust Endpoint Pro,4,3800,15200,6384,8816,North America,Completed
+TXN-111,2024-06-14,OmniRetail Tech,CUST-211,Enterprise Software,Nexus CRM Multi-Org,3,5400,16200,8424,7776,Latin America,Pending
+TXN-112,2024-06-30,Hyperion Robotics,CUST-212,AI Hardware,TensorScale H200 Node,2,28500,57000,41040,15960,Asia Pacific,Completed
+TXN-113,2024-07-16,Stratum FinTech,CUST-213,Developer Tools,CodeCopilot Enterprise,8,3400,27200,13600,13600,North America,Completed
+TXN-114,2024-07-29,Krypton Labs,CUST-214,Cloud Infrastructure,Aurora Elastic Compute,3,4200,12600,7812,4788,Europe,Completed
+TXN-115,2024-08-12,Cascade Cloud,CUST-215,Developer Tools,DevMatrix CI/CD Fleet,5,2900,14500,7830,6670,North America,Refunded
